@@ -9,3 +9,7 @@ Use the "Sail" buttons to navigate in different directions (East, West, North, o
 Each time you sail, the game will randomly determine if you find a treasure or encounter a storm.
 Keep sailing and collecting treasures until you're ready to finish the game.
 When you're done, click the "Finish" button to see the total number of treasures found and the number of times you sailed.
+
+![1](https://github.com/adityasinghkushwah17/Captain_Treasure_Game/assets/130901654/d6c741a0-06ec-4216-954c-f9169864c627)
+![2](https://github.com/adityasinghkushwah17/Captain_Treasure_Game/assets/130901654/abc36398-f44f-453a-9abb-4a91733ead20)
+![3](https://github.com/adityasinghkushwah17/Captain_Treasure_Game/assets/130901654/5f413502-2ec4-4585-a646-2134a3b26a2c)
